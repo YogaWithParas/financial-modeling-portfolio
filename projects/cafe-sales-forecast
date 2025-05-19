@@ -1,0 +1,38 @@
+# Project: Café Sales Forecast Model ☕
+
+## Status: ✅ Complete
+
+### 🧠 Skills Demonstrated:
+- Regression Analysis
+- Forecasting with Excel
+- Business Intelligence
+- Data Visualization
+
+### 📌 Project Summary:
+This project explores how external variables (temperature) affect iced coffee sales in a café setting. Using synthetic data and simple linear regression in Excel, we model the relationship:
+
+Daily Iced Coffee Sales = α + β * Temperature + ε
+
+
+The result? A clear forecast that helps the business:
+- Predict sales volume based on weather
+- Optimize inventory and staffing
+- Run data-backed promotions
+
+### 📂 Files Included:
+- `cafe_sales_data.xlsx`: Synthetic dataset for 90 days
+- `sales_forecast_model.xlsx`: Regression model + forecast sheet
+- `summary_charts.png`: Visuals for LinkedIn/post
+
+### ✅ Business Use Case:
+Instead of guessing how many cups to prep, this model gives the café owner **actionable data**:
+> “Every 1°C rise = ~40 more iced coffees/day.”
+
+That’s the power of simple analytics.
+
+---
+
+## 🛠 Tools Used:
+- Microsoft Excel
+- Linear Regression (Trendline & Formula)
+- Charts (Scatter Plot, Forecast Overlay)
